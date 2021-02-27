@@ -1,1 +1,1 @@
-## Experiment name
+## Bio signal import and channel analysis
