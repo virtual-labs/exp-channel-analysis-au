@@ -1,47 +1,52 @@
-1. The recorded raw EEG data signals are stored in which data format:
+<br>
+1. The recorded raw EEG data signals are stored in which data format:<br>
 
-**•	European data format(.edf file)**
+<b>•	European data format(.edf file)<br></b>
 
-•	PNG
+•	PNG<br>
 
-•	DOC
+•	DOC<br>
 
-•	PDF File
-
-
-&nbsp;
-
-2. Which of the following are the EEG signal analysis method:
-
-•	Wavelet Transform
-
-•	Principle Component Analysis(PCA)
-
-•	Power spectral Density(PSD)
-
-**•	All the above**
-
-&nbsp;
-
-3. The open source web application for visualization and processing of EEG signals are:
-
-•	Brainstorm
-
-•	Fieldtrip
-
-•	Only 1
-
-**•	Both 1 & 2**
+•	PDF File<br>
 
 
 &nbsp;
+<br>
+2. Which of the following are the EEG signal analysis method:<br>
 
-4. ERP refers to 
+•	Wavelet Transform<br>
 
-•	Variations in EEG data in response to cognitive performance
+•	Principle Component Analysis(PCA)<br> 
 
-•	Small changes in the scalp-recorded electroencephalogram to the onset of cognitive task
+•	Power spectral Density(PSD)<br>
 
-•	Weaker rhythmic patterns responsible for an input stimuli
+<b>•	All the above<br></b>
 
-**•	All the above**
+&nbsp;
+<br>
+3. The open source web application for visualization and processing of EEG signals are:<br>
+
+•	Brainstorm<br>
+
+•	Fieldtrip<br>
+
+•	Only 1<br>
+
+<b>•	Both 1 & 2<br></b>
+
+
+&nbsp;
+<br>
+
+4. ERP refers to<br>
+
+•	Variations in EEG data in response to cognitive performance<br>
+
+•	Small changes in the scalp-recorded electroencephalogram to the onset of cognitive task<br>
+
+•	Weaker rhythmic patterns responsible for an input stimuli<br>
+
+<b>•	All the above<br></b>
+
+
+
