@@ -1,5 +1,6 @@
 <br>
-1. The recorded raw EEG data signals are stored in which data format:<br>
+1. The recorded raw EEG data signals are stored in which data format:
+
 
 <b>•	European data format(.edf file)<br></b>
 
