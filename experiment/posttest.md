@@ -1,6 +1,6 @@
 1. The recorded raw EEG data signals are stored in which data format:
 
-•	European data format(.edf file)
+**•	European data format(.edf file)**
 
 •	PNG
 
@@ -19,7 +19,7 @@
 
 •	Power spectral Density(PSD)
 
-•	All the above
+**•	All the above**
 
 &nbsp;
 
@@ -31,7 +31,7 @@
 
 •	Only 1
 
-•	Both 1 & 2
+**•	Both 1 & 2**
 
 
 &nbsp;
@@ -44,4 +44,4 @@
 
 •	Weaker rhythmic patterns responsible for an input stimuli
 
-•	All the above
+**•	All the above**
