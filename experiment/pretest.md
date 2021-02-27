@@ -1,45 +1,45 @@
-1. The electromyogram is the bio electric signals produces from:
+1. The electromyogram is the bio electric signals produces from:<br>
 
-•	Eye
+•	Eye<br>
 
-•	Heart
+•	Heart<br>
 
-**•	Muscles**
+<b>•	Muscles<br></b>
 
-•	Brain
-
-&nbsp;
-
-2. Electroencephalography is a 
-
-**•	Non-invasive Method**
-
-•	Invasive Method
-
-•	Can be both invasive and non-invasive
-
-•	None of the above.
+•	Brain<br>
 
 &nbsp;
+<br>
+2. Electroencephalography is a<br> 
 
-3. The metal electrode of EEG made up of 
+<b>•	Non-invasive Method<br></b>
 
-**•	Ag-AgCl**
+•	Invasive Method<br>
 
-•	Au-AgCl
+•	Can be both invasive and non-invasive<br>
 
-•	Al-AgCl
-
-•	Ni-AgCl
+•	None of the above.<br>
 
 &nbsp;
+<br>
+3. The metal electrode of EEG made up of<br> 
 
-4. The nwanted signals present in  raw EEG data refereed as:
+<b>•	Ag-AgCl<br></b>
 
-•	Fluctuations
+•	Au-AgCl<br>
 
-**•	Artefacts**
+•	Al-AgCl<br>
 
-•	Impedance
+•	Ni-AgCl<br>
 
-•	Action Potentials
+&nbsp;<br>
+
+4. The nwanted signals present in  raw EEG data refereed as:<br>
+
+•	Fluctuations<br>
+
+<b>•	Artefacts<br></b>
+
+•	Impedance<br>
+
+•	Action Potentials<br>
