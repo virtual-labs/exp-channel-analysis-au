@@ -14,10 +14,10 @@ Advancements in biomedical signal processing techniques have led Electroencephal
 
 &nbsp;
 
-![](/experiment/images/1.png)
 
 
 
+<center><img src="images/1.png" title="" /></center>
 
 
 
@@ -28,7 +28,7 @@ The signals extracted from electrodes are called raw EEG signals. EEG signals ar
 
 
 
-![](/experiment/images/2.png)
+<center><img src="images/2.png" title="" /></center>
 
 Fig.2 EEG data visualization in time series plot. Measured voltages in µV were shown against time in seconds.
 
